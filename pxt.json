@@ -1,11 +1,9 @@
 {
     "name": "SHT31 Extension",
     "version": "0.0.1",
-    "description": "",
+    "description": "SHT31 Temperature and Humidity Sensor Extension",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
