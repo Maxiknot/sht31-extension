@@ -5,8 +5,7 @@
     "dependencies": {
         "core": "*"
     },
-    "files": [
-        "main.blocks",
+   "files": [
         "main.ts",
         "README.md"
     ],
